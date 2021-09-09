@@ -79,11 +79,11 @@
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.mapstruct/mapstruct-processor -->
-		<dependency>
+		<!--<dependency>
 			<groupId>org.mapstruct</groupId>
 			<artifactId>mapstruct-processor</artifactId>
 			<version>1.5.0.Beta1</version>
-		</dependency>
+		</dependency>-->
 
 
 	</dependencies>
@@ -111,11 +111,11 @@
 					</excludes>
 
 						<annotationProcessorPaths>
-						<path>
+						<!--<path>
 							<groupId>org.mapstruct</groupId>
 							<artifactId>mapstruct-processor</artifactId>
 							<version>1.5.0.Beta1</version>
-						</path>
+						</path>-->
 
 
 
